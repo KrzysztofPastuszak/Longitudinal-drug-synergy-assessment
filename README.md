@@ -1,6 +1,6 @@
 # Longitudinal-drug-synergy-assessment
 
-Model binaries are available under:
+Preprocessed data and model binaries are available under:
 
 https://drive.google.com/drive/folders/1IjWGbgy5mTJCFF5tIPJFfgeSuvMz6XgD?usp=sharing
 
